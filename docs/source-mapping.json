@@ -1,0 +1,142 @@
+{
+  "0": {
+    "source": "4.webp",
+    "frames": [
+      0,
+      3,
+      6,
+      9,
+      12,
+      15,
+      0
+    ],
+    "mirrored": false
+  },
+  "1": {
+    "source": "1.webp",
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "mirrored": false
+  },
+  "2": {
+    "source": "1.webp",
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "mirrored": true
+  },
+  "3": {
+    "source": "3.webp",
+    "frames": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "mirrored": false
+  },
+  "4": {
+    "source": "2.webp",
+    "frames": [
+      0,
+      2,
+      4,
+      6,
+      7
+    ],
+    "mirrored": false
+  },
+  "5": {
+    "source": "5.webp",
+    "frames": [
+      0,
+      3,
+      6,
+      9,
+      12,
+      15,
+      19,
+      24
+    ],
+    "mirrored": false
+  },
+  "6": {
+    "source": "5.webp",
+    "frames": [
+      0,
+      5,
+      10,
+      15,
+      20,
+      24
+    ],
+    "mirrored": false
+  },
+  "7": {
+    "source": "7.webp",
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "mirrored": false
+  },
+  "8": {
+    "source": "5.webp",
+    "frames": [
+      0,
+      5,
+      10,
+      15,
+      20,
+      24
+    ],
+    "mirrored": false
+  },
+  "9": {
+    "source": "4.webp",
+    "frames": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "mirrored": false
+  },
+  "10": {
+    "source": "4.webp",
+    "frames": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "mirrored": false
+  }
+}
