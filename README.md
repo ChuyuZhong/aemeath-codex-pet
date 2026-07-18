@@ -1,4 +1,4 @@
-# 爱弥斯 Codex Pet · R2
+# 爱弥斯 Codex Pet
 
 <div align="center">
   <img src="preview/idle.gif" alt="爱弥斯待机动画" width="150" />
@@ -125,3 +125,15 @@ Copy-Item .\pet.json, .\spritesheet-v2-r2.webp -Destination $petDir -Force
 ---
 
 如果这个小家伙让你的 Codex 工作时间更开心，欢迎点一个 Star ⭐
+
+## 友情链接
+
+主包同学制作的菲比 codex pet也可以了解一下：
+[菲比啾比](https://github.com/sherlidian01-web/phoebe-codex-pet)
+
+最后，放一只菲比在这里，你们不许欺负她。
+
+<p align="left">
+<img src="./phoebe.png" width="300">
+</p>
+
